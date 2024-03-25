@@ -12,7 +12,7 @@ After installing SDL2 on Linux, the compile command is the following
 The included Makefile works for depeloping on MacOS. It can be modified
 to compile for Linux.
 
-SDL initialisation, the numbers map and some routines are taken from:
+SDL initialization, the numbers map and some routines are taken from:
 https://github.com/flightcrank/pong
 
 Several comments in the source file are added to appoint specific factors
